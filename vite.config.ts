@@ -17,3 +17,15 @@ export default defineConfig(({ mode }) => ({
     },
   },
 }));
+```typescript
+export default defineConfig({
+  // existing config...
+  build: {
+    rollupOptions: {
+      input: {
+        main: path.resolve(__dirname, 'index.html')
+      }
+    }
+  }
+})
+```

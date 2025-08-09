@@ -43,7 +43,7 @@ git branch -M main
 git remote add origin https://github.com/queensofaffiliate/her-next-chapter.git
 git push -u origin main
 ```
-
+      
 **Replace YOUR-USERNAME with your actual GitHub username!**
 
 ## Need Help?

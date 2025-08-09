@@ -6,3 +6,8 @@
     }
   ]
 }
+```bash
+git add .
+git commit -m "Fixed vite config"
+git push
+```
